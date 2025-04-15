@@ -1,1 +1,1 @@
-new one
+This mod primarily alters Titan passive abilities through weapon mod implementations, which may result in poor compatibility with modes other than TTDM. However, it delivers an exceptional experience featuring numerous innovative abilities for various Titans while maintaining fundamental balance. Additionally, I've integrated a respawn protection system: holding crouch during the protection shield period triggers self-destruction with respawn point reset (no death penalty), effectively addressing problematic spawn scenarios. Enjoy your enhanced combat experience!
