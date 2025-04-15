@@ -1,0 +1,189 @@
+{
+    "Name": "TitanEquipmentEX",
+    "Description": "TitanEquipmentEX",
+    "LoadPriority": 101,
+    "Authors": ["iLiskarm"],
+    "RequiredOnClient": false,
+    "ConVars": [
+        {
+          "Name": "northstar1",
+          "DefaultValue": "0",
+          "HelpString": ""
+        },
+        {
+          "Name": "northstar2",
+          "DefaultValue": "0",
+          "HelpString": ""
+        },
+        {
+            "Name": "northstar3",
+            "DefaultValue": "0",
+            "HelpString": ""
+        },
+        {
+            "Name": "northstar4",
+            "DefaultValue": "0",
+            "HelpString": ""
+        },
+        {
+            "Name": "northstar5",
+            "DefaultValue": "0",
+            "HelpString": ""
+        }, 
+        {
+            "Name": "vanguard1",
+            "DefaultValue": "0",
+            "HelpString": ""
+        },
+        {
+            "Name": "vanguard2",
+            "DefaultValue": "0",
+            "HelpString": ""
+        },
+        {
+            "Name": "vanguard3",
+            "DefaultValue": "0",
+            "HelpString": ""
+        },
+        {
+            "Name": "vanguard4",
+            "DefaultValue": "0",
+            "HelpString": ""
+        },
+        {
+            "Name": "scorch1",
+            "DefaultValue": "0",
+            "HelpString": ""
+        },
+        {
+            "Name": "scorch2",
+            "DefaultValue": "0",
+            "HelpString": ""
+        },
+        {
+            "Name": "scorch3",
+            "DefaultValue": "0",
+            "HelpString": ""
+        },
+        {
+            "Name": "scorch4",
+            "DefaultValue": "0",
+            "HelpString": ""
+        },
+        {
+            "Name": "scorch5",
+            "DefaultValue": "0",
+            "HelpString": ""
+        }, 
+        {
+            "Name": "ion1",
+            "DefaultValue": "0",
+            "HelpString": ""
+        },
+        {
+            "Name": "ion2",
+            "DefaultValue": "0",
+            "HelpString": ""
+        },
+        {
+            "Name": "ion3",
+            "DefaultValue": "0",
+            "HelpString": ""
+        },
+        {
+            "Name": "ion4",
+            "DefaultValue": "0",
+            "HelpString": ""
+        },
+        {
+            "Name": "ion5",
+            "DefaultValue": "0",
+            "HelpString": ""
+        },
+        {
+            "Name": "ronin1",
+            "DefaultValue": "0",
+            "HelpString": ""
+        },
+        {
+            "Name": "ronin2",
+            "DefaultValue": "0",
+            "HelpString": ""
+        },
+        {
+            "Name": "ronin3",
+            "DefaultValue": "0",
+            "HelpString": ""
+        },
+        {
+            "Name": "ronin4",
+            "DefaultValue": "0",
+            "HelpString": ""
+        },
+        {
+            "Name": "ronin5",
+            "DefaultValue": "0",
+            "HelpString": ""
+        },
+        {
+            "Name": "tone1",
+            "DefaultValue": "0",
+            "HelpString": ""
+        },
+        {
+            "Name": "tone2",
+            "DefaultValue": "0",
+            "HelpString": ""
+        },
+        {
+            "Name": "tone3",
+            "DefaultValue": "0",
+            "HelpString": ""
+        },
+        {
+            "Name": "tone4",
+            "DefaultValue": "0",
+            "HelpString": ""
+        },
+        {
+            "Name": "tone5",
+            "DefaultValue": "0",
+            "HelpString": ""
+        },
+        {
+            "Name": "legion1",
+            "DefaultValue": "0",
+            "HelpString": ""
+        },
+        {
+            "Name": "legion2",
+            "DefaultValue": "0",
+            "HelpString": ""
+        },
+        {
+            "Name": "legion3",
+            "DefaultValue": "0",
+            "HelpString": ""
+        },
+        {
+            "Name": "legion4",
+            "DefaultValue": "0",
+            "HelpString": ""
+        },
+        {
+            "Name": "legion5",
+            "DefaultValue": "0",
+            "HelpString": ""
+        }
+
+      ],
+    "Scripts": [
+        {
+            "Path": "TitanEquipmentEX.nut",
+            "RunOn": "SERVER && MP",
+            "ServerCallback": {
+                "After": "TitanEquipmentEX"
+            }
+        }
+    ]
+}
